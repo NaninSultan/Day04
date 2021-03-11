@@ -4,6 +4,9 @@ var remainder;
 var numOne;
 var numTwo;
 remainder = numOne % numTwo;
+
+parseInt(numOne);
+parseInt(numTwo);
     //
     return remainder;
 }
